@@ -1,0 +1,8 @@
+                                                                               KLUNIVERSITY
+
+As a student, I want to register for a hostel room in website kluniversity erp.
+
+Acceptance criteria:-
+1. I was given information about available types of hostel rooms and the fees of the rooms.
+2. I was provided all the facilities available in the hostel.
+3. I was allotted a hostel room.
